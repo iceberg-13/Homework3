@@ -79,7 +79,7 @@ a {
   background: linear-gradient(180deg, rgba(39, 1, 15, 0) 0%, #001944 100%), url(<path-to-image>), lightgray 50%/cover no-repeat;
 }
 
-.secondgame:hover {
+.product:hover {
   border-radius: 16px;
   border: 3px solid #44D2FF;
   background: linear-gradient(180deg, rgba(39, 1, 15, 0) 0%, #001944 100%), url(<path-to-image>), lightgray 50%/cover no-repeat;
